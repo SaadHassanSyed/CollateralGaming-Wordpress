@@ -1,4 +1,4 @@
-![image](https://github.com/SaadHassanSyed/CollateralGaming-Wordpress/assets/10111894/4257a8d7-0a8b-4f3a-804f-c26820aded6d)Website URL:https://collateralgaming.uk/
+Website URL:https://collateralgaming.uk/
 Setup whole website for client and performed crud operations for players, scores etc. Moreover added functionalities and conditions like leaderboard ranking and fee calculation using CSS,HTML, javascript and PHP.
 
 ![col3](https://github.com/SaadHassanSyed/CollateralGaming-Wordpress/assets/10111894/afc87ba3-39ee-4f43-8e3d-240d05a90f1c)
